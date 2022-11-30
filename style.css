@@ -1,0 +1,17 @@
+h1{
+color:turquoise;
+}
+h2{
+color:red;
+font-family: Arial;
+font-variant: small-caps;
+text-align:left;
+}
+body{
+background-color: black;
+text-align: center;
+}
+p{
+color: rgb(255, 213, 123);
+text-align: justify;
+}
